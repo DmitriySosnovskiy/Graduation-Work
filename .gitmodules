@@ -1,3 +1,9 @@
 [submodule "code"]
 	path = code
 	url = https://github.com/DmitriySosnovskiy/ProjectsAggregator
+[submodule "ProjectsAggregator-UI"]
+	path = ProjectsAggregator-UI
+	url = https://github.com/DmitriySosnovskiy/ProjectsAggregator-UI
+[submodule "ProjectsAggregator-Backend"]
+	path = ProjectsAggregator-Backend
+	url = https://github.com/DmitriySosnovskiy/ProjectsAggregator-Backend
